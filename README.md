@@ -26,7 +26,10 @@ Percentage of Vine 5-star reviews: <b>0</b>
 Percentage of non-Vine 5-star reviews: <b>63.8%</b>
 
 ## Summary
-Based on the results of this analysis, there is no positivity bias for reviews in the Vine program. Zero percent of all Vine music reviews were a 5-star rating, while 63.8% of the non-Vine reviews received a 5-star rating. Although there appears to be no bias in favor of Vine reviews, the results of this analysis are not realiable, as only 7 of the reviews were from Vine subscribers (as displayed in the table below) versus 67,580 non-Vine users. More data needs to be collected for further analysis. Instead of excluding total vote counts that are less than 20 and only including "helpful_votes divided by total_votes that is equal to or greater than 50%," <b>ALL</b> votes should be included in the analysis, helpful or not. This may produce more Vine reviews to explore, yielding a more accurate conclusion.
+Based on the results of this analysis, there is no positivity bias for reviews in the Vine program. Zero percent of all Vine music reviews were a 5-star rating, while 63.8% of the non-Vine reviews received a 5-star rating. Although there appears to be no bias in favor of Vine reviews, the results of this analysis are not realiable, as only 7 of the reviews were from Vine subscribers (Table 1) versus 67,580 non-Vine users (Table 2). More data needs to be collected for further analysis. Instead of excluding total vote counts that are less than 20 and only including "helpful_votes divided by total_votes that is equal to or greater than 50%," <b>ALL</b> votes should be included in the analysis, helpful or not. This may produce more Vine reviews to explore, yielding a more accurate conclusion.
 <br>
-#### Vine Reviews
+#### Table 1: Vine Reviews
 ![Vine Reviews](Resources/vine_data.png)
+
+#### Table 2: Non-Vine Reviews
+![Non-Vine Reviews](Resources/nonvine_data.png)
